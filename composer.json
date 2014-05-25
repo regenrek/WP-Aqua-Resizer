@@ -1,0 +1,17 @@
+{
+    "name": "kkern/wp-aqua-resizer",
+    "type": "composer-installer",
+    "license": "BSD-3-Clause",
+    "description": "A composer installer for the Aqua Resizer",
+    "authors": [
+        {
+            "name": "regenrek (Aq Resizer: Syamil MJ)",
+            "email": "hello@regenrek.at"
+        }
+    ],
+    "homepage": "http://github.com/kkern/wp-aqua-resizer",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
