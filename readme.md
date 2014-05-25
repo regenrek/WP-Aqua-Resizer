@@ -10,8 +10,6 @@ This is a fork of the Aqua Resizer from Syamil MJ
 - Latest Aqua Resizer version
 
 
-## Why use it?
-
 You can find the original Project Repo [here](https://github.com/syamilmj/Aqua-Resizer)
 
 
