@@ -1,9 +1,11 @@
 # WP Aqua Resizer
 
-This is a fork of the Aqua Resizer from Syamil MJ
+This small script will allow you to resize & crop WordPress images uploaded via the media uploader on the fly. It relies on WP's native functions to resize the images, and checks if there is an already resized version of the image so that it won't be wasting your server's resources to regenerate the images.
+
+The original Aqua Resizer was created by Syamil MJ
 
 
-## Why use it?
+## Why use this version?
 
 - composer.json for dependency management [Composer](https://getcomposer.org)
 - Wordpress Plugin
@@ -42,7 +44,7 @@ Install files
 
 ## How-To
 
-There aren't any special Shortcodes or Template Tags implemented.
+There aren't any special shortcodes or template tags implemented.
 Just use the original Documentation which you can find here:
 
 [https://github.com/syamilmj/Aqua-Resizer](https://github.com/syamilmj/Aqua-Resizer)
